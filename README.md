@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains two folders **Answers** and **Questions** where I put my best contribution questions and answers on my [Stackoverflow](https://stackoverflow.com/users/8618242/bilal).
+This repository contains **Answers** and **Questions** of my best contribution on my [Stackoverflow](https://stackoverflow.com/users/8618242/bilal).
 
 I highly believe in the usefulness and the gain we get from such public open communities to improve our world and sharpen our skills, since I have much help from that community, I decided to help others in return to make 
 
