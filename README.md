@@ -6,15 +6,13 @@
 
 This repository contains two folders **Questions** and **Answers** where I put my best contribution questions and answers on my [Stackoverflow](https://stackoverflow.com/users/8618242/bilal).
 
+I highly believe in the usefulness and the gain we get from such public open communities to improve our world and sharpen our skills, since I have much help from that community, I decided to help others in return to make 
+
 ![SO_Logo](SO_Logo.png)
 
 ---
 
 >Note: This list is under construction and not done yet!, it's just the begining.
-
----
-
-I highly believe in the usefulness and the gain we get from such public open communities to improve our world and sharpen our skills, since I have much help from that community, I decided to help others in return to make 
 
 ---
 
