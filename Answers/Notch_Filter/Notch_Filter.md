@@ -6,7 +6,7 @@
 
 ## How to implement Notch Filter in Python
 
-![Theory](theory.jpg "Concept Image")
+![Theory](Theory.jpg "Concept Image")
 
 > Reference: Rafael C. Gonzalez and Richard E. Woods. 2001. Digital Image Processing (2nd. ed.). Addison-Wesley Longman Publishing Co., Inc., USA.
 
