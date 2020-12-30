@@ -20,16 +20,11 @@ I highly believe in the usefulness and the gain we get from such public open com
 
 Here is a List of the best answers that I have done so far:
 
-1. [Notch Filter in Python](https://stackoverflow.com/questions/65483030/notch-reject-filtering-in-python/65484007)
-   - [Answer](/Answers/Notch_Filter/Notch_Filter.md).
-2. [How to remove text noise using Morphology in MatLab](https://stackoverflow.com/questions/65457647/how-to-remove-the-image-noises-in-this-photo-with-morphology-while-making-the-ba)
-   - [Answer](Answers/Text_Noise_Morphology/Text_Noise_Morphology.md).
-3. [How to Detect Rooftops of Certain Color in Python](https://stackoverflow.com/questions/65396244/how-can-i-obtain-a-representation-of-the-roofs-from-a-aerial-image-using-rgb-dif/65400191)
-   - [Answer](Answers/Orange_Roofs/Orange_Roofs.md).
-4. [Object colour segmentaion in Python](https://stackoverflow.com/questions/64145295/object-extraction-and-construction/64166586)
-   - [Answer](Answers/Cable_Segmentation/Cable_Segmentation.md).
-5. [How to Read Blurry Barcode in Python](https://stackoverflow.com/questions/64111254/read-blurry-barcode-in-python-with-pyzbar/64175996)
-   - [Answer](Answers/Blurry_Barcode/Blurry_Barcode.md).
+1. [Notch Filter in Python](/Answers/Notch_Filter/Notch_Filter.md).
+2. [How to remove text noise using Morphology in MatLab](Answers/Text_Noise_Morphology/Text_Noise_Morphology.md).
+3. [How to Detect Rooftops of Certain Color in Python](Answers/Orange_Roofs/Orange_Roofs.md).
+4. [Object colour segmentaion in Python](Answers/Cable_Segmentation/Cable_Segmentation.md).
+5. [How to Read Blurry Barcode in Python](Answers/Blurry_Barcode/Blurry_Barcode.md).
 
 <!-- 6. [Question on SO]()
    - [Answer](). -->
@@ -40,10 +35,10 @@ Here is a List of the best answers that I have done so far:
 
 ## Questions
 
-Here is a list of the best questions that I have got a good answers to them:
+<!-- Here is a list of the best questions that I have got a good answers to them:
 
 1. [How to remove repititve pattern from an image using FFT](https://stackoverflow.com/questions/65480162/how-to-remove-repititve-pattern-from-an-image-using-fft)
-   - [Answer](https://stackoverflow.com/a/65482958).
+   - [Answer](https://stackoverflow.com/a/65482958). -->
 
 <!-- 2. sth
    - [Answer](). -->
