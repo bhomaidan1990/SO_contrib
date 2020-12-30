@@ -4,11 +4,13 @@
 
 ## Introduction
 
-This repository contains two folders **Questions** and **Answers** where I put the best contribution questions and answers on my [Stackoverflow](https://stackoverflow.com/users/8618242/bilal).
+This repository contains two folders **Questions** and **Answers** where I put my best contribution questions and answers on my [Stackoverflow](https://stackoverflow.com/users/8618242/bilal).
+
+![SO_Logo](SO_Logo.png)
 
 ---
 
-### Note: This list is under construction and not done yet!, it's just the begining.
+>Note: This list is under construction and not done yet!, it's just the begining.
 
 ---
 
