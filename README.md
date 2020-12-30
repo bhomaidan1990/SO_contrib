@@ -26,7 +26,7 @@ Here is a List of the best answers that I have done so far:
    - [Answer](Answers/Text_Noise_Morphology/Text_Noise_Morphology.md).
 3. [How to Detect Rooftops of Certain Color in Python](https://stackoverflow.com/questions/65396244/how-can-i-obtain-a-representation-of-the-roofs-from-a-aerial-image-using-rgb-dif/65400191)
    - [Answer](Answers/Orange_Roofs/Orange_Roofs.md).
-4. [Object colour segmentaion](https://stackoverflow.com/questions/64145295/object-extraction-and-construction/64166586)
+4. [Object colour segmentaion in Python](https://stackoverflow.com/questions/64145295/object-extraction-and-construction/64166586)
    - [Answer](Answers/Cable_Segmentation/Cable_Segmentation.md).
 5. [How to Read Blurry Barcode in Python](https://stackoverflow.com/questions/64111254/read-blurry-barcode-in-python-with-pyzbar/64175996)
    - [Answer](Answers/Blurry_Barcode/Blurry_Barcode.md).
